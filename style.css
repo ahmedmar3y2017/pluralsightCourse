@@ -1,4 +1,7 @@
 
+
+
+
 header, footer {
     background-color: lightgray;
     border: 1px solid black;
@@ -99,10 +102,21 @@ a {
     color: green;
     font-size: 15px;
 
-
 }
-style{
+
+style {
     height: 100%;
 
+}
+
+.result {
+
+    margin: 5px;
+    border: 1px solid #888888;
+
+}
+
+.result .title {
+    font-weight: bold;
 
 }
